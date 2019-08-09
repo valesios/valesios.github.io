@@ -1,0 +1,5 @@
+Unlock screen
+
+Hi! How to "wake up" screen from app. Example, app is run in background. At certain time app is relanch itself (its working good). But screen is black (and locked).
+
+How to make it work, like in clock alarm (in certain time app runs - screen unlocked - screen not black) 
